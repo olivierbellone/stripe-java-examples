@@ -2,7 +2,7 @@
 
 This is a simple example project illustrating how to implement [Stripe's OAuth flow](https://stripe.com/docs/connect/standalone-accounts) to connect standalone accounts to a platform.
 
-This example uses the Spark framework version 1.x in order to be compatible with Java 1.7. If you're using Java 1.8 or later, you should look at the example using Spark 2.x [here](https://github.com/olivierbellone/stripe-java-examples/stripe-oauth-spark2).
+This example uses the Spark framework version 1.x in order to be compatible with Java 1.7. If you're using Java 1.8 or later, you should look at the example using Spark 2.x [here](../stripe-oauth-spark2).
 
 Requirements
 ============
