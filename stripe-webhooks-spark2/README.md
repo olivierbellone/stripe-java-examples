@@ -1,13 +1,13 @@
-# Stripe webhooks endpoint example, using Java and Spark 1.x
+# Stripe webhooks endpoint example, using Java and Spark 2.x
 
 This is a simple example project illustrating how to implement a [Stripe webhooks endpoint](https://stripe.com/docs/webhooks).
 
-This example uses the Spark framework version 1.x in order to be compatible with Java 1.7. If you're using Java 1.8 or later, you should look at the example using Spark 2.x [here](../stripe-webhooks-spark2).
+This example uses the Spark framework version 2.x, so it requires Java 1.8 or later. If you're using Java 1.7, you should look at the example using Spark 1.x [here](../stripe-webhooks-spark1).
 
 Requirements
 ============
 
-- Java 1.7 and later.
+- Java 1.8 and later.
 - Maven (<https://maven.apache.org/>)
 
 The project has some dependencies, Maven will take care of downloading everything.
