@@ -16,6 +16,13 @@ These example projects illustrate how to [create a charge with Plaid](https://st
 - [stripe-charge-plaid-spark1](./stripe-charge-plaid-spark1) uses the Spark framework version 1.x and is suitable for use with Java 1.7.
 - [stripe-charge-plaid-spark2](./stripe-charge-plaid-spark2) uses the Spark framework version 2.x and is suitable for use with Java 1.8 and later.
 
+### Charge creation with 3D-Secure examples
+
+These example projects illustrate how to [create a charge with 3D-Secure](https://stripe.com/docs/3d-secure).
+
+- [stripe-charge-3ds-spark1](./stripe-charge-3ds-spark1) uses the Spark framework version 1.x and is suitable for use with Java 1.7.
+- [stripe-charge-3ds-spark2](./stripe-charge-3ds-spark2) uses the Spark framework version 2.x and is suitable for use with Java 1.8 and later.
+
 ### Webhooks examples
 
 These example projects illustrate how to implement a [Stripe webhooks endpoint](https://stripe.com/docs/webhooks).
